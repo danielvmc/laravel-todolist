@@ -1,4 +1,4 @@
-<?php namespace App\Providers;
+<?php namespace Todolist\Providers;
 
 use Illuminate\Support\ServiceProvider;
 

@@ -1,6 +1,6 @@
-<?php namespace App\Services;
+<?php namespace Todolist\Services;
 
-use App\User;
+use Todolist\User;
 use Validator;
 use Illuminate\Contracts\Auth\Registrar as RegistrarContract;
 

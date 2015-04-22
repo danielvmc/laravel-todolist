@@ -1,4 +1,4 @@
-<?php namespace App;
+<?php namespace Todolist;
 
 use Illuminate\Auth\Authenticatable;
 use Illuminate\Database\Eloquent\Model;
